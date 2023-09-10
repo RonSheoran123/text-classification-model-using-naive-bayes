@@ -30,3 +30,28 @@ Here's a step-by-step guide on how to perform text classification using Naive Ba
 
 
 This code is a basic example of text classification using Multinomial Naive Bayes. Depending on your specific problem and dataset, you may need to perform more advanced preprocessing and tuning to achieve the best results.
+
+# Example Case
+
+**size:**
+  x_train=14997
+  x_test=5000
+  y_train=14997
+  y_test=5000
+
+**frequency graph:**
+
+  <img width="441" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/e84e3f08-d886-421c-8b4f-4a92d281335f">
+
+  Top 2000 words are taken into consideration
+
+Score on training data: 0.8935787157431486
+Score on testing data: 0.8544
+
+**Confusion Matrix:**
+
+  <img width="441" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/5c9409dd-7c6f-419d-ab0b-d2911af876c8">
+
+  <img width="424" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/cc8027a6-62b8-4344-b93e-0e5f64d4668e">
+
+
