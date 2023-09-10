@@ -35,9 +35,9 @@ This code is a basic example of text classification using Multinomial Naive Baye
 
 **size:**
   x_train=14997 <br>
-  x_test=5000   \n
-  y_train=14997 \n
-  y_test=5000  \n
+  x_test=5000   <br>
+  y_train=14997 <br>
+  y_test=5000  <br>
 
 **frequency graph:**
 
@@ -45,13 +45,13 @@ This code is a basic example of text classification using Multinomial Naive Baye
 
   Top 2000 words are taken into consideration
 
-  Score on training data: 0.8935787157431486 \n
+  Score on training data: 0.8935787157431486 <br>
   Score on testing data: 0.8544
 
 **Confusion Matrix:**
 
   <img width="441" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/5c9409dd-7c6f-419d-ab0b-d2911af876c8">
-\n
+<br>
 
   <img width="396" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/83cf9c7e-8f4f-4f0f-8c59-651e30ee98ca">
 
