@@ -1,4 +1,4 @@
-# text-classification-detection-model-using-naive-bayes
+# text-classification-model-using-naive-bayes
 
 Text classification using Naive Bayes is a popular and effective technique in natural language processing (NLP) and machine learning. Naive Bayes is a probabilistic algorithm that makes predictions based on the Bayes' theorem. It's called "naive" because it assumes that the features used for classification are independent of each other, which is often not the case in text data. Despite this simplifying assumption, Naive Bayes can perform surprisingly well for many text classification tasks.
 
