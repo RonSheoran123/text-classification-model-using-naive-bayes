@@ -52,6 +52,8 @@ This code is a basic example of text classification using Multinomial Naive Baye
 
   <img width="441" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/5c9409dd-7c6f-419d-ab0b-d2911af876c8">
 \n
-  <img width="409" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/b9e5c6f3-b954-4cf3-973c-a7d7586551e0">
+
+  <img width="396" alt="image" src="https://github.com/RonSheoran123/spam-detection-model-using-naive-bayes/assets/106268100/83cf9c7e-8f4f-4f0f-8c59-651e30ee98ca">
+
 
 
