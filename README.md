@@ -33,7 +33,7 @@ This code is a basic example of text classification using Multinomial Naive Baye
 
 # Example Case
 
-**size:**
+**size:** <br>
   x_train=14997 <br>
   x_test=5000   <br>
   y_train=14997 <br>
